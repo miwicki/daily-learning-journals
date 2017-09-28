@@ -1,0 +1,3 @@
+# **LJ Code 201 - Day 6**
+
+## Hate to move away from the about me page to work on something different, but it is refreshing to be learning some new material and getting a fresh start.  Today was pretty complicated and repetitive, but once we learn constructer functions I'm sure I'll be able to condense it down some at least.  I think today, rendering was the hardest for me, whereas objects came a little bit easier.  Although object literals are repetitive and tedious, it seems to be making sense to me at least!! And everything seems to be working for today, so I should be ready for tomorrow!! :) I hope it doesn't get any harder from here, although I've heard Wednesday is a doozy; hope I can be up to the challenge!!
