@@ -1,0 +1,3 @@
+# **Daily Learning Journal 5**
+
+## Honestly feeling pretty behind and overwhelmed at this point... seems like I'm always behind where the class is but I'm trying my best to catch up! Whenever I ask how I'm doing it seems like Sam and the TAs are telling me that I'm in the right place and that I shouldn't be worried about being behind, but with the final deadline coming so soon I can't help but worry!  I just hope I do ok on the final exam so that my overall grade doesn't fall below 90%!!  Almost done, and looking forward t project week, it sounds like a fun and practical way to show what we've learned so far. 
