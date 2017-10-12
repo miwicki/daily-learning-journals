@@ -1,0 +1,3 @@
+# **Daily Learning Journal 11**
+
+Completed the project!! Very proud f what we've made, even if it isn't a revolutionary, once in a lifetime app that our audience will be seeing, I'm very proud personally of what the group achieved and what I also individually learned and achieved.  I'm really excited to show the app to everyone tomorrow, I know it'll be a hit! Just have to work on presenting practice and delivering an awesome presentation tomorrow.  I have the task of introducing the project, so I wan to start everyone on the right foot.  I just need to remember to be confident and composed and it should all turn out ok.   

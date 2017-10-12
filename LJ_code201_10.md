@@ -1,3 +1,3 @@
-# **Daily Learning Journal 9**
+# **Daily Learning Journal 10**
 
 Working with sprites is hard... We definitely did well to make this a stretch goal, as it's taken a lot of research and experimentation just to get one showing up and animating properly! But now that we have one showing up, it should be really easy to replicate the process to make the other animation we want appear too.  the hard part now will be placing it where we want on the screen, so that'll probably be a group effort working on the css today to get that working.  Otherwise I think we are practically done and ready to start preparing for the presentations! Still going very smoothly and it's been relieving to be able to solve our own problems as we go along, functioning pretty well as a group.  
